@@ -1,0 +1,11 @@
+{
+    "baseURL" : "https://www.saucedemo.com",
+    "mainUser" : "standard_user",
+    "falseUser" : "standard_user_24",
+    "falseUser2" : "problem_user_24",
+    "falseUser3" : "error_user_24",
+    "truePassword" : "secret_sauce",
+    "falsePassword" : "secret_sauce_1",
+    "location" : "inventory.html",
+    "emptyLocation" : ""
+}
